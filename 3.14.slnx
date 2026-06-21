@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../yuesai.131/yuesai.131.vcxproj" Id="1294b88e-1373-44f1-b049-cc0306e58efd" />
+  <Project Path="3.14.vcxproj" Id="05ee8011-d642-436e-9e07-13993b5283c9" />
+</Solution>
